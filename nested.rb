@@ -125,9 +125,6 @@ def adding_to_dennis
           :known_for => "Unix",
           :languages => ["C"]
         }
-        
-        puts programmer_hash[:grace_hopper],
-puts programmer_hash[:alan_kay][:known_for]
      }
 
 end
